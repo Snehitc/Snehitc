@@ -6,9 +6,9 @@
 🏆 ICASSP 2026 Grand Challenge: **2nd Place**
 
 > Research focused on:
-> * Noise-robust Speech Emotion Recognition 
-> * Multimodal Audio-Text fusion
-> * Robust modelling and interpretability
+> - Noise-robust Speech Emotion Recognition 
+> - Multimodal Audio-Text fusion
+> - Robust modelling and interpretability
 
 
 ### 💡 What I Bring
@@ -19,18 +19,18 @@
 
 
 ### 🔬 Featured Work
-**🥈 EnsembleSVR-XACLE (ICASSP 2026 SP Grand Challenge)**
->- Ranked <strong>2nd place</strong> on official leaderboard
->- Audio-text semantic alignment using ensemble learning
->- Combined deep embeddings + similarity metrics
+- **🥈 EnsembleSVR-XACLE (ICASSP 2026 SP Grand Challenge)**
+  - Ranked <strong>2nd place</strong> on official leaderboard
+  - Audio-text semantic alignment using ensemble learning
+  - Combined deep embeddings + similarity metrics
 
-**✨ Reasoning-driven SER (ICASSP 2026)**
->- Introduced reasoning-based captions for noise-robust SER
->- Improved SER by 32% over the conventional Audio-Only approach at SNR:-10dB
+- **✨ Reasoning-driven SER (ICASSP 2026)**
+  - Introduced reasoning-based captions for noise-robust SER
+  - Improved SER by 32% over the conventional Audio-Only approach at SNR:-10dB
 
-🎧 STeLiN-US Dataset (DCASE 2023)
->- Built A spatio-temporally linked neighbourhood urban sound database
->- Models real-world acoustic environments
+- **🎧 STeLiN-US Dataset (DCASE 2023)**
+  - Built A spatio-temporally linked neighbourhood urban sound database
+  - Models real-world acoustic environments
 <br>
 
 
@@ -41,7 +41,7 @@
 - **DCASE**
   - STELIN-US: A Spatio-Temporally Linked Neighborhood Urban Sound Database (Finland-2023)
 - **Other Work**
-  - ICEECCOT 2021 (India): Mixed Language Separation Using Deep Neural Network (India-2021)
+  - ICEECCOT: Mixed Language Separation Using Deep Neural Network (India-2021)
   - ISOCC: Efficient Hardware Implementation of Nonlinear Activation Function For Inference Model (Japan-2024)
 <br>
 
@@ -54,13 +54,13 @@
 <br>
 
 ### 📈 GitHub Stats
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehitc&show_icons=true&theme=tokyonight)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Streak](https://streak-stats.demolab.com/?user=Snehitc&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehitc&show_icons=true&theme=tokyonight)<br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Snehitc&theme=tokyonight)
 <br>
 
 ### 🤝 Connect
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📧 Email: Snehitc@gmail.com <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌐 Website: [My Portfolio](https://snehitc.github.io/portfolio) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔗 LinkedIN: [Snehit Chunarkar](https://www.linkedin.com/in/snehit-chunarkar/) <br>
+  - 📧 Email: Snehitc@gmail.com <br>
+  - 🌐 Website: [My Portfolio](https://snehitc.github.io/portfolio) <br>
+  - 🔗 LinkedIN: [Snehit Chunarkar](https://www.linkedin.com/in/snehit-chunarkar/) <br>
 
 ### 👀 Profile Views: &nbsp;&nbsp;&nbsp; ![Visitors](https://komarev.com/ghpvc/?username=Snehitc&color=blue)
