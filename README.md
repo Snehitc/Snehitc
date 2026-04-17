@@ -1,5 +1,6 @@
 ## Hi, I'm Snehit 👋
-🎓 PhD Researcher | Machine Learning | Noise Robust Speech Emotion AI 
+🎓 PhD Researcher | Machine Learning <br>
+🎧 Specializing in Noise Robust Speech Emotion Recognition (SER) 
 
 > Research focused on:
 > * Noise-robust Speech Emotion Recognition 
@@ -44,8 +45,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Streak](https://streak-stats.demolab.com/?user=Snehitc&theme=tokyonight)
 <br>
 
-### Connect
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Email: Snehitc@gmail.com <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Website: [Click Here](https://snehitc.github.io/portfolio)
+### 🤝 Connect
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📧 Email: Snehitc@gmail.com <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌐 Website: [My Portfolio](https://snehitc.github.io/portfolio) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔗 LinkdIN: [Snehit Chunarkar](https://www.linkedin.com/in/snehit-chunarkar/) <br>
 
-### Profile Views: &nbsp;&nbsp;&nbsp; ![Visitors](https://komarev.com/ghpvc/?username=Snehitc&color=blue)
+### 👀 Profile Views: &nbsp;&nbsp;&nbsp; ![Visitors](https://komarev.com/ghpvc/?username=Snehitc&color=blue)
