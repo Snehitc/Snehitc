@@ -4,11 +4,6 @@ PhD Researcher in **Machine Learning** at NTHU, focused on **Noise Robust Speech
 🏆 ICASSP 2026 Grand Challenge: **2nd Place** <br>
 🚀 Building multimodal AI systems for real-world noisy environments  
 
-> Research focused on:
-> - Noise-robust Speech Emotion Recognition 
-> - Multimodal Audio-Text Fusion
-> - Robust modelling and interpretability
-
 
 ### 💡 What I Bring
   - Strong background in **multimodal ML (Audio + Text)**
