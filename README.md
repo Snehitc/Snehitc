@@ -18,12 +18,7 @@
 ![Speech](https://img.shields.io/badge/Domain-Speech%20AI-navy)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehitc&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehitc&layout=compact&theme=tokyonight) \
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snehitc&theme=tokyo-night)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Snehitc&theme=onedark)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehitc&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Snehitc&theme=tokyonight)
 
 ### Connect
