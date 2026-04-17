@@ -47,11 +47,10 @@
 
 
 ### 🤖 Tech Stack
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-red?logo=pytorch)
-![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=HuggingFace)
-![Speech](https://img.shields.io/badge/Domain-Speech%20AI-navy)
+>![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+>![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-red?logo=pytorch)
+>![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=HuggingFace)
+>![Speech](https://img.shields.io/badge/Domain-Speech%20AI-navy)
 ---
 
 
