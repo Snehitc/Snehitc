@@ -1,9 +1,8 @@
 ## Hi, I'm Snehit 👋
-🎓 PhD Researcher | Machine Learning <br>
-🎧 Specializing in **Noise Robust Speech Emotion Recognition (SER)**
+PhD Researcher in **Machine Learning** at NTHU, focused on **Noise Robust Speech Emotion Recognition (SER)** and **Multimoddal Audio-Text learning**.
 
-🚀 Building multimodal AI systems for real-world noisy environments  
 🏆 ICASSP 2026 Grand Challenge: **2nd Place**
+🚀 Building multimodal AI systems for real-world noisy environments  
 
 > Research focused on:
 > - Noise-robust Speech Emotion Recognition 
@@ -19,30 +18,26 @@
 
 
 ### 🔬 Featured Work
-- **🥈 EnsembleSVR-XACLE (ICASSP 2026 SP Grand Challenge)**
-  - Ranked <strong>2nd place</strong> on official leaderboard
-  - Audio-text semantic alignment using ensemble learning
-  - Combined deep embeddings + similarity metrics
+- **🥈 [EnsembleSVR-XACLE](https://github.com/Snehitc/EnsembleSVR-XACLE) (ICASSP 2026 SP Grand Challenge)**
+  >- Ranked <strong>2nd place</strong> on [official leaderboard](https://xacle.org/results.html); Proposed enseble-based audio-text semantic alignment.
 
-- **✨ Reasoning-driven SER (ICASSP 2026)**
-  - Introduced reasoning-based captions for noise-robust SER
-  - Improved SER by 32% over the conventional Audio-Only approach at SNR:-10dB
+- **✨ [Reasoning-driven SER](https://github.com/Snehitc/Reasoning-driven-SER) (ICASSP 2026)**
+  >- Proposed reasoning-based captions to improve SER by 32% over the conventional Audio-Only baseline at SNR -10dB.
 
-- **🎧 STeLiN-US Dataset (DCASE 2023)**
-  - Built A spatio-temporally linked neighbourhood urban sound database
-  - Models real-world acoustic environments
+- **🎧 [STeLiN-US Dataset](https://zenodo.org/records/10560740) (DCASE 2023)**
+  >- Urban sound dataset designed to model spatio-temporally linked real-world acoustic environments.
 ---
 
 
 ### 🎓 Publications: [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=google%20scholar)](https://scholar.google.com/citations?user=VNHH8ygAAAAJ&hl=en)
 - **ICASSP**
-  - Reasoning Driven Captions to Assist Noise Robust Speech Emotion Recognition (Spain-2026)
-  - Cross-Modal Semantic Alignment Via Ensemble Audio-Text Features for XACLE Challenge (Spain-2026)
+  >- Reasoning Driven Captions to Assist Noise Robust Speech Emotion Recognition (Spain-2026)
+  >- Cross-Modal Semantic Alignment Via Ensemble Audio-Text Features for XACLE Challenge (Spain-2026)
 - **DCASE**
-  - STELIN-US: A Spatio-Temporally Linked Neighborhood Urban Sound Database (Finland-2023)
+  >- STELIN-US: A Spatio-Temporally Linked Neighborhood Urban Sound Database (Finland-2023)
 - **Other Work**
-  - ISOCC: Efficient Hardware Implementation of Nonlinear Activation Function For Inference Model (Japan-2024)
-  - ICEECCOT: Mixed Language Separation Using Deep Neural Network (India-2021)
+  >- ISOCC: Efficient Hardware Implementation of Nonlinear Activation Function For Inference Model (Japan-2024)
+  >- ICEECCOT: Mixed Language Separation Using Deep Neural Network (India-2021)
 ---
 
 
