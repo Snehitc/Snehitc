@@ -15,7 +15,7 @@
   - Strong background in **multimodal ML (Audio + Text)**
   - Experience with **real-world noisy data modeling**
   - Proven ability to **rank in competitive ML challenges**
-<br>
+---
 
 
 ### 🔬 Featured Work
@@ -31,7 +31,7 @@
 - **🎧 STeLiN-US Dataset (DCASE 2023)**
   - Built A spatio-temporally linked neighbourhood urban sound database
   - Models real-world acoustic environments
-<br>
+---
 
 
 ### 🎓 Publications: [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=google%20scholar)](https://scholar.google.com/citations?user=VNHH8ygAAAAJ&hl=en)
@@ -43,7 +43,8 @@
 - **Other Work**
   - ICEECCOT: Mixed Language Separation Using Deep Neural Network (India-2021)
   - ISOCC: Efficient Hardware Implementation of Nonlinear Activation Function For Inference Model (Japan-2024)
-<br>
+---
+
 
 ### 🤖 Tech Stack
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -51,12 +52,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-red?logo=pytorch)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=HuggingFace)
 ![Speech](https://img.shields.io/badge/Domain-Speech%20AI-navy)
-<br>
+---
+
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehitc&show_icons=true&theme=tokyonight)<br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Snehitc&theme=tokyonight)
-<br>
+---
+
 
 ### 🤝 Connect
   - 📧 Email: Snehitc@gmail.com <br>
