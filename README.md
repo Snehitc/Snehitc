@@ -40,8 +40,8 @@
 <br>
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehitc&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Snehitc&theme=tokyonight)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehitc&show_icons=true&theme=tokyonight)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Streak](https://streak-stats.demolab.com/?user=Snehitc&theme=tokyonight)
 <br>
 
 ### Connect
