@@ -1,12 +1,12 @@
 ## Hi, I'm Snehit 👋
-PhD Researcher in **Machine Learning** at NTHU, focused on **Noise Robust Speech Emotion Recognition (SER)** and **Multimoddal Audio-Text learning**.
+PhD Researcher in **Machine Learning** at NTHU, focused on **Noise Robust Speech Emotion Recognition (SER)** and **Multimodal Audio-Text learning**.
 
 🏆 ICASSP 2026 Grand Challenge: **2nd Place** <br>
 🚀 Building multimodal AI systems for real-world noisy environments  
 
 > Research focused on:
 > - Noise-robust Speech Emotion Recognition 
-> - Multimodal Audio-Text fusion
+> - Multimodal Audio-Text Fusion
 > - Robust modelling and interpretability
 
 
@@ -19,7 +19,7 @@ PhD Researcher in **Machine Learning** at NTHU, focused on **Noise Robust Speech
 
 ### 🔬 Featured Work
 - **🥈 [EnsembleSVR-XACLE](https://github.com/Snehitc/EnsembleSVR-XACLE) (ICASSP 2026 SP Grand Challenge)**
-  >- Ranked <strong>2nd place</strong> on [official leaderboard](https://xacle.org/results.html); Proposed enseble-based audio-text semantic alignment.
+  >- Ranked <strong>2nd place</strong> on [official leaderboard](https://xacle.org/results.html); Proposed ensemble-based Audio-Text semantic alignment.
 
 - **✨ [Reasoning-driven SER](https://github.com/Snehitc/Reasoning-driven-SER) (ICASSP 2026)**
   >- Proposed reasoning-based captions to improve SER by 32% over the conventional Audio-Only baseline at SNR -10dB.
@@ -58,6 +58,6 @@ PhD Researcher in **Machine Learning** at NTHU, focused on **Noise Robust Speech
 ### 🤝 Connect
   - 📧 Email: Snehitc@gmail.com <br>
   - 🌐 Website: [My Portfolio](https://snehitc.github.io/portfolio) <br>
-  - 🔗 LinkedIN: [Snehit Chunarkar](https://www.linkedin.com/in/snehit-chunarkar/) <br>
+  - 🔗 LinkedIn: [Snehit Chunarkar](https://www.linkedin.com/in/snehit-chunarkar/) <br>
 
 ### 👀 Profile Views: &nbsp;&nbsp;&nbsp; ![Visitors](https://komarev.com/ghpvc/?username=Snehitc&color=blue)
