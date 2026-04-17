@@ -41,8 +41,8 @@
 - **DCASE**
   - STELIN-US: A Spatio-Temporally Linked Neighborhood Urban Sound Database (Finland-2023)
 - **Other Work**
-  - ICEECCOT: Mixed Language Separation Using Deep Neural Network (India-2021)
   - ISOCC: Efficient Hardware Implementation of Nonlinear Activation Function For Inference Model (Japan-2024)
+  - ICEECCOT: Mixed Language Separation Using Deep Neural Network (India-2021)
 ---
 
 
