@@ -13,7 +13,7 @@ PhD Researcher in **Machine Learning** at NTHU, focused on **Noise-Robust Speech
 
 
 ### 🔬 Featured Work
-- **🥈 [EnsembleSVR-XACLE](https://github.com/Snehitc/EnsembleSVR-XACLE) (ICASSP 2026 SP Grand Challenge)**
+- **🥈 [EnsembleSVR-XACLE](https://github.com/Snehitc/EnsembleSVR-XACLE) (ICASSP 2026: SP Grand Challenge)**
   >- Ranked <strong>2nd place</strong> on [official leaderboard](https://xacle.org/results.html); Proposed ensemble-based Audio-Text semantic alignment.
 
 - **✨ [Reasoning-driven SER](https://github.com/Snehitc/Reasoning-driven-SER) (ICASSP 2026)**
