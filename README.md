@@ -1,5 +1,5 @@
 ## Hi, I'm Snehit 👋
-PhD Researcher in **Machine Learning** at NTHU, focused on **Noise Robust Speech Emotion Recognition (SER)** and **Multimodal Audio-Text learning**.
+PhD Researcher in **Machine Learning** at NTHU, focused on **Noise-Robust Speech Emotion Recognition (SER)** and **Multimodal Audio-Text Learning**.
 
 🏆 ICASSP 2026 Grand Challenge: **2nd Place** <br>
 🚀 Building multimodal AI systems for real-world noisy environments  
@@ -25,14 +25,14 @@ PhD Researcher in **Machine Learning** at NTHU, focused on **Noise Robust Speech
 
 
 ### 🎓 Publications: [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=google%20scholar)](https://scholar.google.com/citations?user=VNHH8ygAAAAJ&hl=en)
-- **ICASSP**
-  >- Reasoning Driven Captions to Assist Noise Robust Speech Emotion Recognition (Spain-2026)
-  >- Cross-Modal Semantic Alignment Via Ensemble Audio-Text Features for XACLE Challenge (Spain-2026)
-- **DCASE**
-  >- STELIN-US: A Spatio-Temporally Linked Neighborhood Urban Sound Database (Finland-2023)
+- **ICASSP 2026**
+  >- Reasoning Driven Captions to Assist Noise Robust Speech Emotion Recognition
+  >- Cross-Modal Semantic Alignment Via Ensemble Audio-Text Features for XACLE Challenge
+- **DCASE 2023**
+  >- STELIN-US: A Spatio-Temporally Linked Neighborhood Urban Sound Database
 - **Other Work**
-  >- ISOCC: Efficient Hardware Implementation of Nonlinear Activation Function For Inference Model (Japan-2024)
-  >- ICEECCOT: Mixed Language Separation Using Deep Neural Network (India-2021)
+  >- ISOCC 2024: Efficient Hardware Implementation of Nonlinear Activation Function For Inference Model
+  >- ICEECCOT 2021: Mixed Language Separation Using Deep Neural Network
 ---
 
 
