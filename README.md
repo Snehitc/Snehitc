@@ -53,7 +53,7 @@ PhD Researcher in **Machine Learning** at NTHU, focused on **Noise-Robust Speech
 
 ### 🤝 Connect
   - 📧 Email: Snehitc@gmail.com <br>
-  - 🌐 Website: [My Portfolio](https://snehitc.github.io/portfolio) <br>
+  - 🌐 Website: [My Portfolio](https://snehitc.github.io) <br>
   - 🔗 LinkedIn: [Snehit Chunarkar](https://www.linkedin.com/in/snehit-chunarkar/) <br>
 
 ### 👀 Profile Views: &nbsp;&nbsp;&nbsp; ![Visitors](https://komarev.com/ghpvc/?username=Snehitc&color=blue)
