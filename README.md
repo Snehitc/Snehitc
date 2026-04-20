@@ -20,7 +20,7 @@ PhD Researcher in **Machine Learning** at NTHU, focused on **Noise-Robust Speech
   >- Proposed reasoning-based captions to improve SER by 32% over the conventional Audio-Only baseline at SNR -10dB.
 
 - **🎧 [STeLiN-US Dataset](https://zenodo.org/records/10560740) (DCASE 2023)**
-  >- Urban sound dataset designed to model spatio-temporally linked real-world acoustic environments.
+  >- Designed an urban sound dataset to model spatio-temporally linked real-world acoustic environments.
 ---
 
 
