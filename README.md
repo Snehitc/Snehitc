@@ -1,4 +1,4 @@
-## Hi, I'm Snehit 👋
+## Hi, I'm Snehit 👋 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90-Website-black)](https://snehitc.github.io)
 PhD Researcher in **Machine Learning** at NTHU, focused on **Noise-Robust Speech Emotion Recognition (SER)** and **Multimodal Audio-Text Learning**.
 
 🏆 ICASSP 2026 Grand Challenge: **2nd Place** <br>
@@ -53,7 +53,7 @@ PhD Researcher in **Machine Learning** at NTHU, focused on **Noise-Robust Speech
 
 ### 🤝 Connect
   - 📧 Email: Snehitc@gmail.com <br>
-  - 🌐 Website: [My Portfolio](https://snehitc.github.io) <br>
+  - 🌐 Website: [Portfolio](https://snehitc.github.io) <br>
   - 🔗 LinkedIn: [Snehit Chunarkar](https://www.linkedin.com/in/snehit-chunarkar/) <br>
 
 ### 👀 Profile Views: &nbsp;&nbsp;&nbsp; ![Visitors](https://komarev.com/ghpvc/?username=Snehitc&color=blue)
