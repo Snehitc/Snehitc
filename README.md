@@ -1,7 +1,7 @@
 ## Hi, I'm Snehit 👋 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90-Website-black)](https://snehitc.github.io)
 PhD Researcher in **Machine Learning** at NTHU, focused on **Noise-Robust Speech Emotion Recognition (SER)** and **Multimodal Audio-Text Learning**.
 
-🏆 ICASSP 2026 Grand Challenge: **2nd Place** <br>
+🏆 ICASSP 2026 Grand Challenge [XACLE]: **2nd Place** <br>
 🚀 Building multimodal AI systems for real-world noisy environments  
 
 
