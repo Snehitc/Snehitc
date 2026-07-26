@@ -2,6 +2,7 @@
 PhD Researcher in **Machine Learning** at NTHU, focused on **Noise-Robust Speech Emotion Recognition (SER)** and **Multimodal Audio-Text Learning**.
 
 🏆 ICASSP 2026 Grand Challenge [XACLE]: **2nd Place** <br>
+🎯 DCASE 2026 Task 6 [Audio moment retrieval]: Top 12 <br>
 🚀 Building multimodal AI systems for real-world noisy environments  
 
 
