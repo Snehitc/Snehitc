@@ -20,6 +20,12 @@ PhD Researcher in **Machine Learning** at NTHU, focused on **Noise-Robust Speech
 - **✨ [Reasoning-driven SER](https://github.com/Snehitc/Reasoning-driven-SER) (ICASSP 2026)**
   >- Proposed reasoning-based captions to improve SER by 32% over the conventional Audio-Only baseline at SNR -10dB.
 
+- **✨ [SED2Text](https://github.com/Snehitc/SED2Text)**
+  >- A training-free, 0.59 billion-parameter cascade for temporally grounded audio description.
+
+- **✨ [AMR Encoder Exploration](https://github.com/Snehitc/AMR-encoder-exploration) (DCASE Challenge 2026 Task 6)**
+  >- Top 12 on [official leaderboard](https://dcase.community/challenge2026/task-audio-moment-retrieval-from-long-audio-results); Proposed Audio Moment Retrieval (AMR) pipeline.
+
 - **🎧 [STeLiN-US Dataset](https://zenodo.org/records/10560740) (DCASE 2023)**
   >- Designed an urban sound dataset to model spatio-temporally linked real-world acoustic environments.
 ---
