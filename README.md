@@ -53,8 +53,7 @@ PhD Researcher in **Machine Learning** at NTHU, focused on **Noise-Robust Speech
 
 ### 📈 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Snehitc&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Snehitc&theme=tokyonight)
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=snehitc&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 
